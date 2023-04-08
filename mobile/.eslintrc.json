@@ -1,0 +1,9 @@
+{
+  "extends": "@rocketseat/eslint-config/react",
+  "rules": {
+    "camelcase": "off",
+    "no-useless-return":"off",
+    "no-useless-catch": "off",
+    "dot-notation": "off"
+  }
+}
